@@ -1,1 +1,0 @@
-An end-end RAG pipeline with a single document encompassing all the stages of the RAG architecture starting with chunking to retrieval and message generation. It is also deployed on streamlit and i have used google's gemini flash model for embeddings and querys.
